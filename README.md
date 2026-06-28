@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Pedro
+<h3 align="center"> 👋 Olá, eu sou Pedro
+</h3>
 
 <h3 align="center">
   Desenvolvedor Full-Stack • React • Node.js • Java • Python
@@ -36,14 +37,6 @@
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebribeiro&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquebribeiro&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
