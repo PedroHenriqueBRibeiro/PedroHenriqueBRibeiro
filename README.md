@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=7F3FBF&center=true&vCenter=true&width=650&lines=Building+clean+and+scalable+applications.;Always+learning+new+technologies.🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=7F3FBF&center=true&vCenter=true&width=650&lines=;Always+learning+new+technologies.🚀" />
 </p>
 
 ---
@@ -70,6 +70,3 @@
   <img src="https://komarev.com/ghpvc/?username=pedrohenriquebribeiro&style=flat-square&color=7F3FBF"/>
 </p>
 
-<p align="center">
-  <b>Code. Learn. Improve. Repeat.</b> 🚀
-</p>
